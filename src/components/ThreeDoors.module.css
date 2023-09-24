@@ -1,0 +1,7 @@
+/*The styling for the <div> wrapper that holds the three doors side by side.*/ 
+
+.threeDoors {
+    display: flex;
+    column-gap: 2.5rem;
+    justify-content: center;
+}

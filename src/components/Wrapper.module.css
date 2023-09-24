@@ -1,0 +1,16 @@
+/*The styling for the wrapper that holds everything except the `Reset` button.*/
+
+.wrapper {
+    text-align: center;
+    font-size: 3rem;
+    width: 85vw;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.button {
+    font-size: 3rem;
+    text-align: center;
+    cursor: pointer;
+}
+
